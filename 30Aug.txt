@@ -1,0 +1,27 @@
+1) polymorphism
+-> An object behaving differently at different instance of time is called Polymorphism.
+There are two types of polymorphism 
+>Run time polymorphism-Invoke of the method is decided at the run time
+>Compile time polymorphism- Invoke of the method is decided at the compile time
+
+*compile time polymorphism is achieved by method overloading
+method overloading--two methods having same method name but different parameters.
+
+*run time polymorphism is achieved by method overriding
+
+
+2)Constructor chaining
+-> A constructor calling another constructor within the same class is called constructor chaining
+
+3)Inheritence
+->The process of acquiring proprties from one class to another class is called inheritance
+
+4)Encapsulation
+->The process of wrapping code and data together into a single unit is called encapsulation
+ 
+*encapsulation can be achieved by the follwing ways
+>having private data members
+>default constructor
+>using getter and setter methods
+
+
